@@ -1,0 +1,8 @@
+[build]
+  publish = "."
+
+# Conteúdo editado à mão: sempre buscar a versão mais nova
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"

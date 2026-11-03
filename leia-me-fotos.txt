@@ -1,0 +1,14 @@
+FOTOS DAS PERSONAGENS
+
+Já vêm prontas: casal.jpg (polaroide do início), lorena.jpg, eduarda.jpg e cadu.jpg.
+
+Para as outras, envie as fotos para o GitHub soltas, junto com os outros
+arquivos (sem pasta), com estes nomes exatos (tudo minúsculo, .jpg):
+
+  maggye.jpg     junior.jpg     paulinho.jpg   gerluce.jpg
+  leo.jpg        zenilda.jpg    violeta.jpg    santiago.jpg
+  jairo.jpg
+
+Se uma foto não existir, o site mostra um círculo com a inicial do nome.
+Para usar outro formato (.png, .webp), mude o nome em personagens.js.
+Fotos em pé (retrato) ficam melhores.
