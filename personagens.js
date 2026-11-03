@@ -50,7 +50,7 @@ const PERSONAGENS = [
     nome: "Cadu",
     apelido: "Cadu",
     papel: "Gato da Juquinha · o filho da casa",
-    descricaoCurta: "Odeia visitas, corre para o quarto quando chega gente nova e fica aos pés de quem está passando o café.",
+    descricaoCurta: "Laranja, listrado e dono do sofá. Odeia visitas, corre para o quarto quando chega gente nova e fica aos pés de quem está passando o café.",
     descricaoLonga: "\"Esse é o Cadu, meu filho\", foi assim que a Juquinha apresentou o gato. O nome, segundo ela, tem influência do Cadu Maverick. Ela tinha esperança de que ele fosse surfista, mas ele não gosta muito de água.",
     foto: "cadu.jpg"
   },

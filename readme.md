@@ -10,7 +10,7 @@ Original no AO3: https://archiveofourown.org/works/76167671
 - **Capítulos**: índice automático com as plaquinhas de apartamento, o tempo de leitura, quem narra cada capítulo e o aviso quando tem bilhete da autora.
 - **Leitura** (`#capitulo-3`): cabeçalho em forma de bilhete com fita, mostrando "Termina em X min", quem narra (com foto), palavras, parágrafos e o que o Cadu está fazendo. Também tem A−/A+, barra de progresso, aviso +18 na primeira vez, as notas da autora como bilhetes e as etiquetas de ponto de vista no texto.
 - **Moradoras**: fotos estilo polaroide que viram. Separa quem mora no apartamento de quem aparece por lá.
-- **Apartamento**: planta da casa desenhada. Toque num cômodo e o Cadu vai andando até lá. O painel mostra quantas vezes cada cômodo aparece nos capítulos, as contas divididas e os botões "Chamar o Cadu" e "Fazer carinho".
+- **Apartamento** (joguinho): planta da casa desenhada. No topo do painel ficam, em destaque, os botões "Chamar o Cadu" e "Fazer carinho". Para jogar, toque na Lorena, na Juquinha ou no Cadu e depois num cômodo, e quem você escolheu anda até lá. Lorena e depois Juquinha (ou o contrário): uma vai até a outra e as duas se beijam, com coraçõezinhos cor-de-rosa. Uma delas e depois o Cadu: ela vai até ele e faz carinho. A lista de cômodos, com as menções em cada capítulo, fica mais abaixo, discreta.
 
 O botão de lâmpada no topo acende e apaga a luz, trocando o modo claro pelo escuro. No escuro, a sala do início fica à noite.
 
